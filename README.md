@@ -1,1 +1,1 @@
-# meishi_od_1969
+# meishi_od_1969 - The micro macro keyboard
