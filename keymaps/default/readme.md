@@ -1,0 +1,1 @@
+# The default keymap for meishi_od_1969
