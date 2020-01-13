@@ -1,5 +1,4 @@
 # meishi_od_1969 - The micro macro keyboard
-  
 ■概要  
 作者の@od_1969 のmeishi基板です。  
 ジグザグ基板(いわゆる無限の可能性)のお試し基板として、キースイッチ、ソケット、ダイオード、ProMicroを取り付けると、9キーのキーパットとして使用できます。  
@@ -27,3 +26,6 @@ make meishi_od_1969
 make meishi_od_1969:avrdude  
 にて書き込みもできます。  
 右下のキー(Fn)+左上のキーを押すと、書き込みモードでRESETです。  
+  
+![Front](https://github.com/od1969/meishi/blob/master/Photo_front.jpg)  
+![Back](https://github.com/od1969/meishi/blob/master/Photo_back.jpg)  
