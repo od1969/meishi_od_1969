@@ -21,7 +21,7 @@ Cherry MX、MX互換スイッチ、Kailh Choc ロープロファイルスイッ�
 ■ファームウェアについて  
 QMK Firmwareを使用したファームウェアの作成方法を以下に記載します。  
   
-QMK Firmwareのkeyboardsへ本リポジトリをコピーまたはgit cloneし
+QMK Firmwareのkeyboardsへ本リポジトリをコピーまたはgit cloneし  
 make meishi_od_1969  
 にてコンパイルできます。  
 
