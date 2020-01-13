@@ -17,9 +17,9 @@ Cherry MX、MX互換スイッチ、Kailh Choc ロープロファイルスイッ�
 3/4inc(19.05mm)ピッチではありません。  
   
 ■ファームウェアについて  
-QMK Firmwareを使用した使用方法を以下に記載します。  
+QMK Firmwareを使用したファームウェアの作成方法を以下に記載します。  
   
-QMK Firmwareのkeyboardsへ本リポジトリをコピーして  
+QMK Firmwareのkeyboardsへ本リポジトリをコピーまたはgit cloneし
 make meishi_od_1969  
 にてコンパイルできます。  
 
